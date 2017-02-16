@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Grocery Delivery</string>
+    <string name="txtDescription">Fruit Image</string>
+    <string name="txtBrowse">Browse Items</string>
+    <string name="txtCart">View Cart</string>
+    <string name="txtOrder">Review Orders</string>
+    <string name="title_activity_view_cart">ViewCart</string>
+    <string name="title_activity_review_orders">ReviewOrders</string>
+    <string name="title_activity_browse">Browse</string>
+    <string name="title_activity_browse_item">BrowseItem</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_item_review">ItemReview</string>
+    <string name="txtAddToCart">Add To Cart</string>
+    <string name="imgShoppingCart">Shopping Cart Image</string>
+    <string name="title_activity_cart_item_review">CartItemReview</string>
+    <string name="title_activity_checkout">Checkout</string>
+    <string name="txtConfirm">Place Order</string>
+    <string name="txtContinue">Continue Shopping</string>
+    <string name="txtOrderTitle">Confirm Order</string>
+    <string name="txtDeliveryTime">Set Delivery</string>
+    <string name="title_activity_order_confirmation">OrderConfirmation</string>
+    <string name="txtOrderConfirmation">Order Confirmation</string>
+    <string name="title_activity_order_review">OrderReview</string>
+    <string name="txtOrderReview">Review Order</string>
+
+</resources>
