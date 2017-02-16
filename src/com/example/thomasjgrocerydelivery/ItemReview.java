@@ -11,7 +11,6 @@ import android.widget.TextView;
 /**************************************************************************************
  * Author: Jarek Thomas
  * Date: 05/04/2015
- * Course: CIT 299
  * Description: Class used for displaying information about a particular product.
  * 				Customer can add products to the shopping cart from this class.
  **************************************************************************************/

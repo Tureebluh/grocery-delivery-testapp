@@ -5,7 +5,6 @@ import android.app.Application;
 /**************************************************************************************
  * Author: Jarek Thomas
  * Date: 05/04/2015
- * Course: CIT 299
  * Description: GlobalState class used for passing data around between classes.
  **************************************************************************************/
 

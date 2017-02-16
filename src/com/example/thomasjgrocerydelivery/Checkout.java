@@ -23,7 +23,6 @@ import android.widget.Toast;
 /**************************************************************************************
  * Author: Jarek Thomas
  * Date: 05/04/2015
- * Course: CIT 299
  * Description: This class is used for placing an order. Customer can continue shopping
  * 				and return to the main screen, or they can select a delivery date/time
  * 				and place their order.

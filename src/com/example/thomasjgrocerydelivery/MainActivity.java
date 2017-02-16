@@ -10,7 +10,6 @@ import android.widget.Button;
 /**************************************************************************************
  * Author: Jarek Thomas
  * Date: 05/04/2015
- * Course: CIT 299
  * Description: This class is the main screen. Users can view past orders, browse items,
  * 				or view their shopping cart from this screen.
  **************************************************************************************/

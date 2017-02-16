@@ -14,7 +14,6 @@ import android.widget.ImageView;
 /**************************************************************************************
  * Author: Jarek Thomas
  * Date: 05/04/2015
- * Course: CIT 299
  * Description: This class is used for loading products into the database, as well as
  * 				displaying an animation of spinning fruits.
  **************************************************************************************/

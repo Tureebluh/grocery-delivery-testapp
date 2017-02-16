@@ -12,7 +12,6 @@ import android.widget.Toast;
 /**************************************************************************************
  * Author: Jarek Thomas
  * Date: 05/04/2015
- * Course: CIT 299
  * Description: This class is used to display all of the orders the user has made in a 
  * 				listactivity and allow the user to view the details of each order.
  **************************************************************************************/

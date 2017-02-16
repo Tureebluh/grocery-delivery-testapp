@@ -14,7 +14,6 @@ import android.widget.Toast;
 /**************************************************************************************
  * Author: Jarek Thomas
  * Date: 05/04/2015
- * Course: CIT 299
  * Description: This class is used to view the items currently in the shopping cart.
  **************************************************************************************/
 

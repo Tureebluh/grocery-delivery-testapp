@@ -7,7 +7,6 @@ import android.widget.TextView;
 /**************************************************************************************
  * Author: Jarek Thomas
  * Date: 05/04/2015
- * Course: CIT 299
  * Description: This class is used to display the results of a particular order from the
  * 				View Orders button on the main page.
  **************************************************************************************/

@@ -10,7 +10,6 @@ import android.content.ContentValues;
 /**************************************************************************************
  * Author: Jarek Thomas
  * Date: 05/04/2015
- * Course: CIT 299
  * Description: This class manages everything with the SQLite Database.
  **************************************************************************************/
 
